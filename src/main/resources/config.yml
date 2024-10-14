@@ -1,0 +1,46 @@
+guis:
+  - type: "chest"
+    title: "Lojinha"
+    slots:
+      - type: "grass_block"
+        name: "Mundo De Grama"
+        index: 0
+        action: "kill"
+
+      - type: "stone"
+        name: "Mundo De Pedra"
+        index: 1
+        action: "weather clear"
+
+      - type: "obsidian"
+        name: "Mundo De Obisidia"
+        index: 2
+        action: "time set day"
+
+      - type: "diorite"
+        name: "Mundo De Diorito"
+        index: 3
+        action: "give @p dirt 1"
+
+  - type: "chest"
+    title: "Atoas"
+    slots:
+      - type: "grass_block"
+        name: "Mundo De Grama"
+        index: 0
+        action: "kill"
+
+      - type: "stone"
+        name: "Mundo De Pedra"
+        index: 1
+        action: "weather clear"
+
+      - type: "obsidian"
+        name: "Mundo De Obisidia"
+        index: 2
+        action: "time set day"
+
+      - type: "diorite"
+        name: "Mundo De Diorito"
+        index: 3
+        action: "give @p dirt 1"
