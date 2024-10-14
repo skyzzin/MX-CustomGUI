@@ -1,36 +1,36 @@
 # MX-CustomGUI
 
-O **MX-CustomGUI** é um plugin para Spigot que permite a criação de interfaces gráficas interativas através de baús. Cada item dentro da interface pode acionar ações específicas ao ser clicado, tornando a interação com os jogadores mais dinâmica e personalizada.
+**MX-CustomGUI** is a plugin for Spigot that allows the creation of interactive graphical interfaces using chests. Each item within the interface can trigger specific actions when clicked, making player interaction more dynamic and personalized.
 
-## Funcionalidades
+## Features
 
-- Criação de interfaces gráficas customizadas com o uso de baús.
-- Definição de ações personalizadas para cada item, como a execução de comandos.
-- Facilidade de configuração para criação de menus interativos em servidores.
+- Creation of custom graphical interfaces using chests.
+- Definition of personalized actions for each item, such as executing commands.
+- Easy configuration for creating interactive menus in servers.
 
-## Exemplo visual
+## Visual Example
 
-Aqui estão algumas capturas de tela que demonstram o uso e a funcionalidade do **MX-CustomGUI**:
+Here are some screenshots that demonstrate the usage and functionality of **MX-CustomGUI**:
 
-### Criação da Interface Gráfica
-![Criação da GUI](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/create.png?raw=true),
+### Creating the Graphical Interface
+![Creating the GUI](https://github.com/skyzzin/MX-CustomGUI/raw/master/md_files/create.png)
 
-### Listagem dos Itens no Baú
-![Listagem dos Itens](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/list.png?raw=true)
+### Listing Items in the Chest
+![Listing the Items](https://github.com/skyzzin/MX-CustomGUI/raw/master/md_files/list.png)
 
-### Interface Gráfica Aberta
-![Interface Aberta](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/opened.png?raw=true)
+### Graphical Interface Opened
+![Opened Interface](https://github.com/skyzzin/MX-CustomGUI/raw/master/md_files/opened.png)
 
-## Instalação
+## Installation
 
-1. Baixe o arquivo `MX-CustomGUI.jar` da [página de releases](https://github.com/skyzzin/MX-CustomGUI/releases).
-2. Coloque o arquivo `.jar` na pasta `plugins` do seu servidor Spigot.
-3. Reinicie o servidor para carregar o plugin.
+1. Download the `MX-CustomGUI.jar` file from the [releases page](https://github.com/skyzzin/MX-CustomGUI/releases).
+2. Place the `.jar` file in your server's `plugins` folder.
+3. Restart the server to load the plugin.
 
-## Contribuições
+## Contributions
 
-Contribuições são bem-vindas! Caso tenha interesse, abra uma _pull request_ ou relate problemas na [página de issues](https://github.com/skyzzin/MX-CustomGUI/issues).
+Contributions are welcome! If you're interested, feel free to open a pull request or report issues on the [issues page](https://github.com/skyzzin/MX-CustomGUI/issues).
 
-## Licença
+## License
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
