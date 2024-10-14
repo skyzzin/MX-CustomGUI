@@ -23,7 +23,7 @@ Here are some screenshots that demonstrate the usage and functionality of **MX-C
 
 ## Installation
 
-1. Download the `MX-CustomGUI.jar` file from the [releases page](https://github.com/skyzzin/MX-CustomGUI/releases).
+1. Download the `MX-CustomGUI.jar` file from the [releases page](https://github.com/skyzzin/MX-CustomGUI/raw/refs/heads/master/MX-CustomGUI.jar).
 2. Place the `.jar` file in your server's `plugins` folder.
 3. Restart the server to load the plugin.
 
