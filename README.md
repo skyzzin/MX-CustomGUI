@@ -13,13 +13,13 @@ O **MX-CustomGUI** é um plugin para Spigot que permite a criação de interface
 Aqui estão algumas capturas de tela que demonstram o uso e a funcionalidade do **MX-CustomGUI**:
 
 ### Criação da Interface Gráfica
-![Criação da GUI](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/create.png),
+![Criação da GUI](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/create.png?raw=true),
 
 ### Listagem dos Itens no Baú
-![Listagem dos Itens](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/list.png)
+![Listagem dos Itens](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/list.png?raw=true)
 
 ### Interface Gráfica Aberta
-![Interface Aberta](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/opened.png)
+![Interface Aberta](https://github.com/skyzzin/MX-CustomGUI/tree/master/md_files/opened.png?raw=true)
 
 ## Instalação
 
